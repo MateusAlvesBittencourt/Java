@@ -1,0 +1,22 @@
+3872;Volvo FH;397.25;0.35
+6789;Scania R Series;249.18;0.42
+2245;Mercedes-Benz Actros;143.64;0.29
+5311;MAN TGX;312.07;0.38
+8165;Kenworth W900;466.99;0.26
+4623;Peterbilt 579;176.4;0.48
+7198;Freightliner Cascadia;428.81;0.33
+2876;International LT Series;198.52;0.41
+6532;DAF XF;321.9;0.29
+5566;FAW Jiefang JH6;155.62;0.39
+8954;Iveco Stralis;287.33;0.45
+3710;Renault Trucks T;401.45;0.31
+5566;FAW Jiefang JH6;155.62;0.39
+8234;Sinotruk Howo;472.11;0.27
+1988;Isuzu F-Series;218.73;0.44
+6743;Hino 700 Series;379.84;0.37
+4291;Tata Prima;136.59;0.28
+7612;Kamaz 5490;489.27;0.43
+3156;Western Star 49X;104.07;0.32
+9867;Dongfeng KX;249.92;0.46
+4444;poo;12.0;30.0
+9898;Lucas;54.0;65.0

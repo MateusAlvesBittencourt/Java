@@ -1,0 +1,1 @@
+Perecivel;123;origem;5432;Veloz Auto Peças;Santa Rosa;4567;Mariana Costa Oliveira;51994567890;20.0;10.0;30;PENDENTE;5;

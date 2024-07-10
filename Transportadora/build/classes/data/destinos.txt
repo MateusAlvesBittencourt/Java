@@ -1,0 +1,20 @@
+5432;Veloz Auto Peças;Santa Rosa
+2654;Aconchego Familiar Pousada;Pelotas
+4123;Flor da Terra Floricultura;Erechim
+1890;Pulo Alto Calçados;Bagé
+3465;Essência Brasileira Moda;Caxias do Sul
+5021;Cantinho da Leitura Livraria;Rio Grande
+6712;Sorriso Feliz Odontologia;Passo Fundo
+3987;Sabores Tropicais Mercado;Santa Cruz do Sul
+1534;Bem-Estar Academia;Santana do Livramento
+5789;Mar & Sol Viagens;São Borja
+2310;Pura Beleza Salão de Beleza;Torres
+4657;Sabor Caipira Restaurante;Ijuí
+6178;Raízes do Samba Bar;Alegrete
+2843;Vida Ativa Esportes;Santa Maria
+6398;Aquarela Arte e Papelaria;Uruguaiana
+1765;Maré Alta Pescados;Canela
+5243;EcoVida Produtos Naturais;Gramado
+3098;Pátria Amada Moda Country;São Leopoldo
+4521;Doce Lar Confeitaria;Tramandaí
+6978;Casa do Sabor Restaurante;Palmeira das Missões
